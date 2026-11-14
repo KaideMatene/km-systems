@@ -1,0 +1,19 @@
+# This repository contains public overview documents only.
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+.wrangler/
+node_modules/
+backups/
+evidence/
+site/
+customer-setup/
+management-system/
